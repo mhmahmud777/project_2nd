@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(127, 255, 238);
+}
+
+h2 {
+    color: rgb(245, 9, 9);
+}
+
+.intro {
+    color: rgb(12, 8, 250);
+    font-size: 20px;
+}
+
+#one{
+    color: rgb(255, 254, 254);
+    background-color: rgb(240, 119, 6);
+}
+
+#two {
+    background-color: rgb(41, 245, 92);
+}
+
+.main-div {
+    background-color: rgb(245, 9, 154);
+}
+
+.four {
+    text-align: center;
+    font: bold;
+    font-size: larger;
+    background-color: white;
+}
